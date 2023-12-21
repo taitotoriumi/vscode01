@@ -6,6 +6,6 @@ int main(void){
 
     char str[] = "hello";
     printf("str[]の文字は:%s\n",str);
-    //printf("文字列の長さ: %zu\n", strlen(str));
+    printf("文字列の長さ: %zu\n", strlen(str));
     return 0;
 }
